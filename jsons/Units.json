@@ -42,7 +42,7 @@
 {	
   "name": "Settler godd",
 		"unitType": "Civilian",
-		"movement": 2,
+		"movement": 1000,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
@@ -61,7 +61,7 @@
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
+			{"text": "Este pendejo te ayudará con tus tareas cotidianas."}
 		]
 	},
 ]
