@@ -28,6 +28,6 @@
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
-    "playerBonusStartingUnits": "Giant Death Robot","Mechanized Infantry","Mobile SAM"
+    "playerBonusStartingUnits": ["Giant Death Robot","Mechanized Infantry","Mobile SAM"]
 	}
   ]
